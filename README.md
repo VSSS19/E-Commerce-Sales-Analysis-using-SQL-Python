@@ -2,6 +2,12 @@
 ## Overview
 This project analyzes e-commerce transactions using SQL and Python to derive insights into customer behavior, product performance, and payment trends. The dataset includes customer details, order records, payments, and product information. SQL is used for data extraction, while Python (Pandas, Matplotlib, and Seaborn) is used for analysis and visualization.
 
+## Dataset Description
+The dataset consists of multiple CSV files containing structured e-commerce transaction data. 
+
+Dataset link: https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
+
+
 ## Technologies Used
 This project leverages the following technologies for data extraction, analysis, and visualization:
 
