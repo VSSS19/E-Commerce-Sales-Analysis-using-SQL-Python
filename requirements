@@ -4,6 +4,7 @@ matplotlib
 seaborn
 pymysql
 jupyter
+MySQL Database
 
 
 Explanation of Libraries:
