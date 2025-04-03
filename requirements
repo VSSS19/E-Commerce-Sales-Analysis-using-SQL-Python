@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+pymysql
+jupyter
+
+
+Explanation of Libraries:
+pandas → For data manipulation and analysis.
+numpy → For numerical operations.
+matplotlib → For data visualization (charts & graphs).
+seaborn → Advanced statistical data visualization.
+pymysql → MySQL database connector for Python.
+jupyter → To run and execute Jupyter Notebooks.
+
+
